@@ -13,19 +13,19 @@ This is one of the PowerBI project series for practicing creating a PowerBI dash
 9. Analyze Sales by Customer and Compare with Previous Year: Analyze sales data by customer, highlighting the performance of individual customers and comparing it to the previous year.
 10. Create Slicers for Date, City, Product, and Channel: Enable users to interact with the data by providing slicers for selecting specific dates, cities, products, and channels, allowing for dynamic filtering and personalized analysis.
 
-# What I learn from practice this project
-- # Gathering and Loading Data: Learn how to import and load data into Power BI from various sources, ensuring your Dashboard is based on accurate and relevant data.
+# What I learn from practicing this project🧐⚗️
+- **Gathering and Loading Data**: Learn how to import and load data into Power BI from various sources, ensuring your Dashboard is based on accurate and relevant data.
 
-- # Data Cleaning and Transformation: Efficiently clean and transform your data to ensure consistency and accuracy, laying the groundwork for insightful analysis.
+- **Data Cleaning and Transformation**: Efficiently clean and transform data to ensure consistency and accuracy, laying the groundwork for insightful analysis.
 
-- # Creating a Date Table with DAX: Establish a Date Table using DAX to enable powerful time-based analysis and comparisons.
+- **Creating a Date Table with DAX**: Establish a Date Table using DAX to enable powerful time-based analysis and comparisons.
 
-- # Building the Data Model: Design a robust Data Model by establishing relationships between different data elements, facilitating seamless interactions within the Dashboard.
+- **Building the Data Model**: Design a robust Data Model by establishing relationships between different data elements, facilitating seamless interactions within the Dashboard.
 
-Creating DAX Measures and Columns: Master the art of DAX calculations, enabling you to perform complex calculations and derive valuable insights.
+- **Creating DAX Measures and Columns: Master the art of DAX calculations, enabling to perform complex calculations and derive valuable insights.
 
-Designing Report Visuals: Bring your Dashboard to life with visually stunning Report Visuals, including charts, graphs, and tables that present data in a captivating manner.
+- **Designing Report Visuals**: Bring Dashboard to life with visually stunning Report Visuals, including charts, graphs, and tables that present data in a captivating manner.
 
-Interactive Tooltips: Elevate the user experience with interactive tooltips, providing on-demand insights as users interact with visuals.
+- **Interactive Tooltips**: Elevate the user experience with interactive tooltips, providing on-demand insights as users interact with visuals.
 
-Deploying to Power BI Service: Learn how to publish your completed Dashboard to Power BI Service, making it accessible to stakeholders across your organization.
+- **Deploying to Power BI Service**: Learn how to publish your completed Dashboard to Power BI Service, making it accessible to stakeholders across your organization.
