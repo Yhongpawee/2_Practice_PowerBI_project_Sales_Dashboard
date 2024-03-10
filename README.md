@@ -22,7 +22,7 @@ This is one of the PowerBI project series for practicing creating a PowerBI dash
 
 - **Building the Data Model**: Design a robust Data Model by establishing relationships between different data elements, facilitating seamless interactions within the Dashboard.
 
-- **Creating DAX Measures and Columns: Master the art of DAX calculations, enabling to perform complex calculations and derive valuable insights.
+- **Creating DAX Measures and Columns**: Master the art of DAX calculations, enabling to perform complex calculations and derive valuable insights.
 
 - **Designing Report Visuals**: Bring Dashboard to life with visually stunning Report Visuals, including charts, graphs, and tables that present data in a captivating manner.
 
